@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uchaudh
 - 👀 I’m interested in Robotics and Autonomous Driving Technologies
 - 🌱 I’m currently learning C++17
-- 💞️ I’m looking to collaborate on ROS package devlopment
+- 💞️ I’m looking to collaborate on ROS package development
 - 📫 How to reach me uchaudh@g.clemson.edu
 
 <!---
