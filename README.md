@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @uchaudh
+- 👋 Hi, I’m Utkarsha!
 - 👀 I’m interested in Robotics and Autonomous Driving Technologies
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ROS package development
+- 💞️ I’m looking to collaborate on a robotics project
 - 📫 How to reach me uchaudh@g.clemson.edu
 
 <!---
