@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics and Autonomous Driving Technologies
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on a machine learning project focused on self-driving application
-- 📫 How to reach me uchaudh@g.clemson.edu
+- 📫 How to reach me utkarsha50.auto@gmail.com
 
 <!---
 uchaudh/uchaudh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
